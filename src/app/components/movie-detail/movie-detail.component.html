@@ -1,0 +1,22 @@
+<div class="detail-container">
+  <div class="detail-content">
+    <h1 class="detail-title">{{ movieDetail.title }}</h1>
+    <div class="detail-author-rating">
+      <div class="detail-author">{{ movieDetail.directors }}</div>
+      <div class="detail-rating">
+        <hem-star></hem-star>
+        <span>{{ movieDetail.metacriticRating }}</span>
+      </div>
+    </div>
+    <div class="detail-description">
+      {{ movieDetail.plot }}
+    </div>
+    <div class="detail-cta">
+      <hem-round-button
+        label="Prenota"
+        [active]="true"
+        (clickEmitter)="onNewBookingClick()"
+      ></hem-round-button>
+    </div>
+  </div>
+</div>

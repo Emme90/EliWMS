@@ -1,0 +1,17 @@
+.time-slot-wrapper {
+  height: 2rem;
+  width: 5.5rem;
+  border-radius: 0.5rem;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selected {
+  background: red;
+  color: white;
+}

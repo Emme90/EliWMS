@@ -1,0 +1,70 @@
+<div class="pay-form-container">
+  <form [formGroup]="payFormGroup" class="form-wrapper">
+    <div class="form-field-wrapper">
+      <label for="cardNumber" class="label-form">Numbero carta</label>
+      <input
+        id="cardNumber"
+        type="text"
+        class="input-form"
+        placeholder="XXXX XXXX XXXX XXXX"
+        formControlName="cardNumber"
+      />
+    </div>
+    <div class="double-field-wrapper">
+      <div class="form-field-wrapper">
+        <label for="name" class="label-form">Nome</label>
+        <input
+          id="name"
+          type="text"
+          class="input-form"
+          placeholder="Nome"
+          formControlName="name"
+        />
+      </div>
+      <div class="form-field-wrapper">
+        <label for="surname" class="label-form">Cognome</label>
+        <input
+          id="surname"
+          type="text"
+          class="input-form"
+          placeholder="Cognome"
+          formControlName="surname"
+        />
+      </div>
+    </div>
+    <div class="double-field-wrapper">
+      <div class="form-field-wrapper">
+        <label for="expiringDate" class="label-form">Data di Scadenza</label>
+        <input
+          id="expiringDate"
+          type="date"
+          class="input-form"
+          placeholder="Data di Scadenza"
+          formControlName="expiringDate"
+        />
+      </div>
+      <div class="form-field-wrapper">
+        <label for="cvv" class="label-form">CVV</label>
+        <input
+          id="cvv"
+          type="text"
+          class="input-form"
+          placeholder="CVV"
+          formControlName="cvv"
+        />
+      </div>
+    </div>
+    <div class="action">
+      <hem-round-button
+        [label]="'Indietro'"
+        (clickEmitter)="onPayBackBtn()"
+      ></hem-round-button>
+      <hem-round-button
+        [label]="'Avanti'"
+        [active]="!payFormGroup.invalid"
+        [disabled]="payFormGroup.invalid"
+        (clickEmitter)="onPayFormSubmit()"
+      ></hem-round-button>
+    </div>
+  </form>
+</div>

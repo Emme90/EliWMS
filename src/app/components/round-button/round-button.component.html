@@ -1,0 +1,8 @@
+<button
+  class="button-wrapper"
+  [disabled]="disabled"
+  [ngClass]="{ active: active, disabled: disabled }"
+  (click)="onClick()"
+>
+  {{ label }}
+</button>

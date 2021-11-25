@@ -1,0 +1,540 @@
+{
+  "imDbId": "tt4513678",
+  "title": "Ghostbusters: Afterlife",
+  "fullTitle": "Ghostbusters: Afterlife (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "kHNWm8YDl1Pf6tyzluLagbtkU94.jpg",
+      "link": "https://imdb-api.com/posters/original/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "fMyCgXLYehlbiQPlcu7nG98GFZU.jpg",
+      "link": "https://imdb-api.com/posters/original/fMyCgXLYehlbiQPlcu7nG98GFZU.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "id": "6BxFUtbC601djI57S70tj3ay94g.jpg",
+      "link": "https://imdb-api.com/posters/original/6BxFUtbC601djI57S70tj3ay94g.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "aj9n15twqiZY0kX0TlNNsyuYF41.jpg",
+      "link": "https://imdb-api.com/posters/original/aj9n15twqiZY0kX0TlNNsyuYF41.jpg",
+      "aspectRatio": 0.6745,
+      "language": "en",
+      "width": 1349,
+      "height": 2000
+    },
+    {
+      "id": "mHqPpDMGpCiRygkDxQaj0IqHziZ.jpg",
+      "link": "https://imdb-api.com/posters/original/mHqPpDMGpCiRygkDxQaj0IqHziZ.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "pZfUHmzM9hO0rXXx7PHdK7ucewI.jpg",
+      "link": "https://imdb-api.com/posters/original/pZfUHmzM9hO0rXXx7PHdK7ucewI.jpg",
+      "aspectRatio": 0.6746666666666666,
+      "language": "en",
+      "width": 1012,
+      "height": 1500
+    },
+    {
+      "id": "mSV1PNKq8sbRpQDz58EG7urLEuZ.jpg",
+      "link": "https://imdb-api.com/posters/original/mSV1PNKq8sbRpQDz58EG7urLEuZ.jpg",
+      "aspectRatio": 0.6745,
+      "language": "en",
+      "width": 1349,
+      "height": 2000
+    },
+    {
+      "id": "2xJj7yZ5GwnwMbwtL7Cp3aI2UC9.jpg",
+      "link": "https://imdb-api.com/posters/original/2xJj7yZ5GwnwMbwtL7Cp3aI2UC9.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "vWDdtlhUdjqUFC4cfthhzMFKo8U.jpg",
+      "link": "https://imdb-api.com/posters/original/vWDdtlhUdjqUFC4cfthhzMFKo8U.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "4sybNiCalJXketLuULuxtP8vz04.jpg",
+      "link": "https://imdb-api.com/posters/original/4sybNiCalJXketLuULuxtP8vz04.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "4Lj0O8A49S6mdIFME0OHdovEA6H.jpg",
+      "link": "https://imdb-api.com/posters/original/4Lj0O8A49S6mdIFME0OHdovEA6H.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2PFkQ8cOlqOt4hEQ7krDDdjYLAl.jpg",
+      "link": "https://imdb-api.com/posters/original/2PFkQ8cOlqOt4hEQ7krDDdjYLAl.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1I4EfZ3Wz1hf5FLxNZA9BcV9UVe.jpg",
+      "link": "https://imdb-api.com/posters/original/1I4EfZ3Wz1hf5FLxNZA9BcV9UVe.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "f9lJ282mUg3Sfsd1CQMzdJ7crVh.jpg",
+      "link": "https://imdb-api.com/posters/original/f9lJ282mUg3Sfsd1CQMzdJ7crVh.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "yekVcB0EV9yYYCz8PlLuSI24O5O.jpg",
+      "link": "https://imdb-api.com/posters/original/yekVcB0EV9yYYCz8PlLuSI24O5O.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "vdUdyG4KuDJ9sssImGAuGjukTyy.jpg",
+      "link": "https://imdb-api.com/posters/original/vdUdyG4KuDJ9sssImGAuGjukTyy.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "sG4j3VermP8Am9uRk4Bjmrxv7ne.jpg",
+      "link": "https://imdb-api.com/posters/original/sG4j3VermP8Am9uRk4Bjmrxv7ne.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "As2YveqzzGksdjKglc5aEEzfzib.jpg",
+      "link": "https://imdb-api.com/posters/original/As2YveqzzGksdjKglc5aEEzfzib.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "weASQbX1vWkcWFLOz0AV7k28KUj.jpg",
+      "link": "https://imdb-api.com/posters/original/weASQbX1vWkcWFLOz0AV7k28KUj.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "rALIg8nWksmhxuZx3SJbMdDiLYi.jpg",
+      "link": "https://imdb-api.com/posters/original/rALIg8nWksmhxuZx3SJbMdDiLYi.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "qDLS54BsHGcRlyn1qpYpmb2qYLt.jpg",
+      "link": "https://imdb-api.com/posters/original/qDLS54BsHGcRlyn1qpYpmb2qYLt.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "nqBHBe9cMNw0v02KyiHb6oSIhZO.jpg",
+      "link": "https://imdb-api.com/posters/original/nqBHBe9cMNw0v02KyiHb6oSIhZO.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "bJliCKYqQM87qUDBXXCS5NOUNqE.jpg",
+      "link": "https://imdb-api.com/posters/original/bJliCKYqQM87qUDBXXCS5NOUNqE.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "kfbIzRB86xTrXFUaYm7AN9B2oaH.jpg",
+      "link": "https://imdb-api.com/posters/original/kfbIzRB86xTrXFUaYm7AN9B2oaH.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "qoyqyx9Wae4zWZpXIt2qyKIckWa.jpg",
+      "link": "https://imdb-api.com/posters/original/qoyqyx9Wae4zWZpXIt2qyKIckWa.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "p4CCx48oYnVnXBjBouXG2HLuN1W.jpg",
+      "link": "https://imdb-api.com/posters/original/p4CCx48oYnVnXBjBouXG2HLuN1W.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1pAFC8yvVBY0XN51q7NTAeKArg2.jpg",
+      "link": "https://imdb-api.com/posters/original/1pAFC8yvVBY0XN51q7NTAeKArg2.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "d4CHVzPmPTih3RiZA9wyrF2KUas.jpg",
+      "link": "https://imdb-api.com/posters/original/d4CHVzPmPTih3RiZA9wyrF2KUas.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "7KfTzQ1IWLhzYCZL7yuAQk1JTCB.jpg",
+      "link": "https://imdb-api.com/posters/original/7KfTzQ1IWLhzYCZL7yuAQk1JTCB.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "9775xzSJJgwE9BUiVjPCBrAUMqi.jpg",
+      "link": "https://imdb-api.com/posters/original/9775xzSJJgwE9BUiVjPCBrAUMqi.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "wR9Mi7pcWGENAWIhW7d2qRSQszs.jpg",
+      "link": "https://imdb-api.com/posters/original/wR9Mi7pcWGENAWIhW7d2qRSQszs.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "7bybK4vfV2NNtw17iafMEBzz86y.jpg",
+      "link": "https://imdb-api.com/posters/original/7bybK4vfV2NNtw17iafMEBzz86y.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "eexdW1diAb0IESaehwCNGuegdMk.jpg",
+      "link": "https://imdb-api.com/posters/original/eexdW1diAb0IESaehwCNGuegdMk.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "6oQlbMbkGBRvrqOvdGUImduQnyw.jpg",
+      "link": "https://imdb-api.com/posters/original/6oQlbMbkGBRvrqOvdGUImduQnyw.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "zNySjUIincz1awsVkqeScW3dzzD.jpg",
+      "link": "https://imdb-api.com/posters/original/zNySjUIincz1awsVkqeScW3dzzD.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "laXrzKo7yZhTAqajZvdJ37KFbLV.jpg",
+      "link": "https://imdb-api.com/posters/original/laXrzKo7yZhTAqajZvdJ37KFbLV.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ELeoLCLxrkniuO3omnIfflzEEK.jpg",
+      "link": "https://imdb-api.com/posters/original/ELeoLCLxrkniuO3omnIfflzEEK.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "9mbEq4ewgMnZvFjuiThqZFAF0Sj.jpg",
+      "link": "https://imdb-api.com/posters/original/9mbEq4ewgMnZvFjuiThqZFAF0Sj.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "59oTo0EoPM4KUQw47Te3QSHS0fr.jpg",
+      "link": "https://imdb-api.com/posters/original/59oTo0EoPM4KUQw47Te3QSHS0fr.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "diAQyAasXN90YFQe3aLzzAz3d9f.jpg",
+      "link": "https://imdb-api.com/posters/original/diAQyAasXN90YFQe3aLzzAz3d9f.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "lyLadAtASqJicTeSVb9ZaXCYu89.jpg",
+      "link": "https://imdb-api.com/posters/original/lyLadAtASqJicTeSVb9ZaXCYu89.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "6aUEp1p2OE5w9NkMmaiHw91VeYC.jpg",
+      "link": "https://imdb-api.com/posters/original/6aUEp1p2OE5w9NkMmaiHw91VeYC.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "kv0Sk2IC6B8GU1Tk943211mmwX0.jpg",
+      "link": "https://imdb-api.com/posters/original/kv0Sk2IC6B8GU1Tk943211mmwX0.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "txRZ5Y0WUqh79Z4yjc8ggGOo5tH.jpg",
+      "link": "https://imdb-api.com/posters/original/txRZ5Y0WUqh79Z4yjc8ggGOo5tH.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ctx2dLVi5h4btgaZvpCz5Mrn8Cl.jpg",
+      "link": "https://imdb-api.com/posters/original/ctx2dLVi5h4btgaZvpCz5Mrn8Cl.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "rJ0f0s7lGa6XCPXVOqfHS9IDPbw.jpg",
+      "link": "https://imdb-api.com/posters/original/rJ0f0s7lGa6XCPXVOqfHS9IDPbw.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "l4A4AoPYfu61BS9bVoERnVRAtzj.jpg",
+      "link": "https://imdb-api.com/posters/original/l4A4AoPYfu61BS9bVoERnVRAtzj.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "nn2FIoSsOGaGiAFrj6lFjOmLBAG.jpg",
+      "link": "https://imdb-api.com/posters/original/nn2FIoSsOGaGiAFrj6lFjOmLBAG.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "n2KgH0FzMDHWUXQ3SaLTn2u9GzH.jpg",
+      "link": "https://imdb-api.com/posters/original/n2KgH0FzMDHWUXQ3SaLTn2u9GzH.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "jxtsukpy2s8Lu4K3EnB9G8LZNOM.jpg",
+      "link": "https://imdb-api.com/posters/original/jxtsukpy2s8Lu4K3EnB9G8LZNOM.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "165Li2dSdOSMPPIy5NEVy2fr97E.jpg",
+      "link": "https://imdb-api.com/posters/original/165Li2dSdOSMPPIy5NEVy2fr97E.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ozVeao7YN13L2gFvt56h7hxA5Vm.jpg",
+      "link": "https://imdb-api.com/posters/original/ozVeao7YN13L2gFvt56h7hxA5Vm.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "oVanXi2Kz9tDdDmOPDA37bwrcjB.jpg",
+      "link": "https://imdb-api.com/posters/original/oVanXi2Kz9tDdDmOPDA37bwrcjB.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "uw5nBs1MaWb0FXQ7cgzbnBEJ0zp.jpg",
+      "link": "https://imdb-api.com/posters/original/uw5nBs1MaWb0FXQ7cgzbnBEJ0zp.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+      "link": "https://imdb-api.com/posters/original/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "CQQr4FneWiGfTJTWeDMsIDHJQQ.jpg",
+      "link": "https://imdb-api.com/posters/original/CQQr4FneWiGfTJTWeDMsIDHJQQ.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "5SL8drLx7B0R9r3aGYeZt915wY8.jpg",
+      "link": "https://imdb-api.com/posters/original/5SL8drLx7B0R9r3aGYeZt915wY8.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "15YAZQ7rHbnK1iNQRlMqucS4axd.jpg",
+      "link": "https://imdb-api.com/posters/original/15YAZQ7rHbnK1iNQRlMqucS4axd.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "eZOkdjMvQ0inPZeir9vkolBk7O8.jpg",
+      "link": "https://imdb-api.com/posters/original/eZOkdjMvQ0inPZeir9vkolBk7O8.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "c6bLCa6n15ikhYX2iUkYbRxAeb6.jpg",
+      "link": "https://imdb-api.com/posters/original/c6bLCa6n15ikhYX2iUkYbRxAeb6.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "aZEsl2PtG9IdgGBBxPswH7zC2RY.jpg",
+      "link": "https://imdb-api.com/posters/original/aZEsl2PtG9IdgGBBxPswH7zC2RY.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "kXpyuN0xi5m5eFpEcu63XOR13vW.jpg",
+      "link": "https://imdb-api.com/posters/original/kXpyuN0xi5m5eFpEcu63XOR13vW.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "pnwBCMSHRhpcqSDK67EJamC3vSo.jpg",
+      "link": "https://imdb-api.com/posters/original/pnwBCMSHRhpcqSDK67EJamC3vSo.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "p3ZTTYSVZS5uZLBQrA9RbU9Jdnj.jpg",
+      "link": "https://imdb-api.com/posters/original/p3ZTTYSVZS5uZLBQrA9RbU9Jdnj.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "6D8WW2beUXwevHoPb7gaAc56Dgp.jpg",
+      "link": "https://imdb-api.com/posters/original/6D8WW2beUXwevHoPb7gaAc56Dgp.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "hlNUqJAE33w1A0AMJz2B6df4Z51.jpg",
+      "link": "https://imdb-api.com/posters/original/hlNUqJAE33w1A0AMJz2B6df4Z51.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "errorMessage": ""
+}

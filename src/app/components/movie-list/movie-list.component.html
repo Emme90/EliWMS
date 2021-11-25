@@ -1,0 +1,41 @@
+<div class="list-container">
+  <div class="genre-list">
+    <div *ngFor="let genre of genreButtonList">
+      <hem-round-button
+        label="{{ genre.label }}"
+        [active]="genre.active"
+        (genreEmitter)="onGenreSelect(genre.label)"
+      ></hem-round-button>
+    </div>
+  </div>
+  <div class="movie-list-container">
+    <div
+      #movieListRef
+      *ngIf="visibleMovieList.length > 0; else emptyList"
+      class="movies-list"
+    >
+      <div *ngFor="let movie of visibleMovieList">
+        <hem-movie-list-detail [movie]="movie"></hem-movie-list-detail>
+      </div>
+    </div>
+
+    <ng-template #emptyList
+      ><div class="empty-list">
+        <span>Nessun film rispetta i generi scelti</span>
+      </div></ng-template
+    >
+
+    <div *ngIf="visibleMovieList.length > 0" class="layer layer-left"></div>
+    <div
+      *ngIf="visibleMovieList.length > 0"
+      class="arrow arrow-left"
+      (click)="onLeftArryClick()"
+    ></div>
+    <div *ngIf="visibleMovieList.length > 0" class="layer layer-right"></div>
+    <div
+      *ngIf="visibleMovieList.length > 0"
+      class="arrow arrow-right"
+      (click)="onRightArrowClick()"
+    ></div>
+  </div>
+</div>

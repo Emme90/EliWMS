@@ -1,0 +1,148 @@
+{
+  "imDbId": "tt6920084",
+  "title": "Resident Evil: Welcome to Raccoon City",
+  "fullTitle": "Resident Evil: Welcome to Raccoon City (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "link": "https://imdb-api.com/posters/original/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "aspectRatio": 0.6745,
+      "language": "en",
+      "width": 1349,
+      "height": 2000
+    },
+    {
+      "id": "gIELpX14PEU94ClrexFetVojO35.jpg",
+      "link": "https://imdb-api.com/posters/original/gIELpX14PEU94ClrexFetVojO35.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "id": "wQO1W9iwGrSKuUlktfjxb5jvr8j.jpg",
+      "link": "https://imdb-api.com/posters/original/wQO1W9iwGrSKuUlktfjxb5jvr8j.jpg",
+      "aspectRatio": 0.6745,
+      "language": "en",
+      "width": 1349,
+      "height": 2000
+    },
+    {
+      "id": "2jGBMO0nJIhywLl2liXid3Qb940.jpg",
+      "link": "https://imdb-api.com/posters/original/2jGBMO0nJIhywLl2liXid3Qb940.jpg",
+      "aspectRatio": 0.67431640625,
+      "language": "en",
+      "width": 1381,
+      "height": 2048
+    },
+    {
+      "id": "vXPNqoOtKksGhVgSXNHisfcYcVz.jpg",
+      "link": "https://imdb-api.com/posters/original/vXPNqoOtKksGhVgSXNHisfcYcVz.jpg",
+      "aspectRatio": 0.6745,
+      "language": "en",
+      "width": 1349,
+      "height": 2000
+    },
+    {
+      "id": "jpfyRRj30VxoelY6T8rQfSES6JJ.jpg",
+      "link": "https://imdb-api.com/posters/original/jpfyRRj30VxoelY6T8rQfSES6JJ.jpg",
+      "aspectRatio": 0.6665,
+      "language": "en",
+      "width": 1333,
+      "height": 2000
+    },
+    {
+      "id": "2NbuLNZabhaNjbaBDklZg98TxmG.jpg",
+      "link": "https://imdb-api.com/posters/original/2NbuLNZabhaNjbaBDklZg98TxmG.jpg",
+      "aspectRatio": 0.7012622720897616,
+      "language": "en",
+      "width": 1000,
+      "height": 1426
+    },
+    {
+      "id": "AiGPAYSafzMS17ybQ05vGMaR5kS.jpg",
+      "link": "https://imdb-api.com/posters/original/AiGPAYSafzMS17ybQ05vGMaR5kS.jpg",
+      "aspectRatio": 0.6960565476190477,
+      "language": "en",
+      "width": 1871,
+      "height": 2688
+    },
+    {
+      "id": "5Cn4wNaXLF4GBQ4ntzvyRtuZ4RG.jpg",
+      "link": "https://imdb-api.com/posters/original/5Cn4wNaXLF4GBQ4ntzvyRtuZ4RG.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": "IJC9Jf7S2hdn1RbPBCsWZgkFNO.jpg",
+      "link": "https://imdb-api.com/posters/original/IJC9Jf7S2hdn1RbPBCsWZgkFNO.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1080,
+      "height": 1620
+    },
+    {
+      "id": "sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg",
+      "link": "https://imdb-api.com/posters/original/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1200,
+      "height": 1800
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "f1uY92qhYLibwUH2bZ5tTQdPAEo.jpg",
+      "link": "https://imdb-api.com/posters/original/f1uY92qhYLibwUH2bZ5tTQdPAEo.jpg",
+      "aspectRatio": 1.779683377308707,
+      "language": "en",
+      "width": 1349,
+      "height": 758
+    },
+    {
+      "id": "yLpDjBdGpHlL57NNxRP7TGcYHr0.jpg",
+      "link": "https://imdb-api.com/posters/original/yLpDjBdGpHlL57NNxRP7TGcYHr0.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1lXMdnvuAkYYBURg0S5q7Ty2piF.jpg",
+      "link": "https://imdb-api.com/posters/original/1lXMdnvuAkYYBURg0S5q7Ty2piF.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "mjFBnNb9tT1yFHvX9YBvSoJM2BX.jpg",
+      "link": "https://imdb-api.com/posters/original/mjFBnNb9tT1yFHvX9YBvSoJM2BX.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "mh9j4wVrq2uiuAv9MFisQdQZEeX.jpg",
+      "link": "https://imdb-api.com/posters/original/mh9j4wVrq2uiuAv9MFisQdQZEeX.jpg",
+      "aspectRatio": 1.7772511848341233,
+      "language": "en",
+      "width": 3000,
+      "height": 1688
+    },
+    {
+      "id": "e9uZK93FIqUXbr2Xm6YaoFzKjoJ.jpg",
+      "link": "https://imdb-api.com/posters/original/e9uZK93FIqUXbr2Xm6YaoFzKjoJ.jpg",
+      "aspectRatio": 1.7772511848341233,
+      "language": "en",
+      "width": 3000,
+      "height": 1688
+    }
+  ],
+  "errorMessage": ""
+}

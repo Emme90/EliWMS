@@ -1,0 +1,60 @@
+{
+  "imDbId": "tt2397461",
+  "title": "Clifford the Big Red Dog",
+  "fullTitle": "Clifford the Big Red Dog (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "lz1SZ43tN30GoEW3uANx5cWtZSQ.jpg",
+      "link": "https://imdb-api.com/posters/original/lz1SZ43tN30GoEW3uANx5cWtZSQ.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1900,
+      "height": 2850
+    },
+    {
+      "id": "qb7MUgtv2HlJgDg5BoMVlDrNsTZ.jpg",
+      "link": "https://imdb-api.com/posters/original/qb7MUgtv2HlJgDg5BoMVlDrNsTZ.jpg",
+      "aspectRatio": 0.6664355062413315,
+      "language": "en",
+      "width": 1922,
+      "height": 2884
+    },
+    {
+      "id": "nBB3Ise0uJEoXP22uM07RQLQApA.jpg",
+      "link": "https://imdb-api.com/posters/original/nBB3Ise0uJEoXP22uM07RQLQApA.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "lLWmtauksCSH09SduR5iQkTbOic.jpg",
+      "link": "https://imdb-api.com/posters/original/lLWmtauksCSH09SduR5iQkTbOic.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "6iu9u0jE6WJKVxMkSaVeVSXyywn.jpg",
+      "link": "https://imdb-api.com/posters/original/6iu9u0jE6WJKVxMkSaVeVSXyywn.jpg",
+      "aspectRatio": 1.7775305895439377,
+      "language": "en",
+      "width": 3196,
+      "height": 1798
+    },
+    {
+      "id": "zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+      "link": "https://imdb-api.com/posters/original/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 3840,
+      "height": 2160
+    }
+  ],
+  "errorMessage": ""
+}

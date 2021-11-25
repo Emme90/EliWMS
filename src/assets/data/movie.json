@@ -1,0 +1,966 @@
+{
+  "items": [
+    {
+      "id": "tt12789558",
+      "title": "Belfast",
+      "fullTitle": "Belfast (2021)",
+      "year": "2021",
+      "releaseState": "November 12",
+      "image": "https://imdb-api.com/images/original/MV5BODMwYTYyY2ItOWQ5Yi00OTI1LTllYTQtYTdlNWM4YzJhYTM0XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "98",
+      "runtimeStr": "1h 38mins",
+      "plot": "A young boy and his working class family experience the tumultuous late 1960s.",
+      "contentRating": "PG-13",
+      "metacriticRating": "70",
+      "genres": "Drama",
+      "genreList": [
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Kenneth Branagh",
+      "directorList": [
+        {
+          "id": "nm0000110",
+          "name": "Kenneth Branagh"
+        }
+      ],
+      "stars": "Jude Hill, Lewis McAskie, Caitriona Balfe, Jamie Dornan",
+      "starList": [
+        {
+          "id": "nm11879379",
+          "name": "Jude Hill"
+        },
+        {
+          "id": "nm11888099",
+          "name": "Lewis McAskie"
+        },
+        {
+          "id": "nm1495520",
+          "name": "Caitriona Balfe"
+        },
+        {
+          "id": "nm1946193",
+          "name": "Jamie Dornan"
+        }
+      ]
+    },
+    {
+      "id": "tt2397461",
+      "title": "Clifford the Big Red Dog",
+      "fullTitle": "Clifford the Big Red Dog (2021)",
+      "year": "2021",
+      "releaseState": "November 12",
+      "image": "https://imdb-api.com/images/original/MV5BMWQwODcxZjMtNWIxNy00YzNkLTk2ZmItYTllZjJlMTc2ZTgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "97",
+      "runtimeStr": "1h 37mins",
+      "plot": "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
+      "contentRating": "PG",
+      "metacriticRating": "80",
+      "genres": "Animation, Adventure, Comedy, Family, Fantasy",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        },
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Family",
+          "value": "Family"
+        },
+        {
+          "key": "Fantasy",
+          "value": "Fantasy"
+        }
+      ],
+      "directors": "Walt Becker",
+      "directorList": [
+        {
+          "id": "nm0065608",
+          "name": "Walt Becker"
+        }
+      ],
+      "stars": "Darby Camp, Jack Whitehall, Izaac Wang, John Cleese",
+      "starList": [
+        {
+          "id": "nm6081322",
+          "name": "Darby Camp"
+        },
+        {
+          "id": "nm3099754",
+          "name": "Jack Whitehall"
+        },
+        {
+          "id": "nm9865891",
+          "name": "Izaac Wang"
+        },
+        {
+          "id": "nm0000092",
+          "name": "John Cleese"
+        }
+      ]
+    },
+    {
+      "id": "tt13265876",
+      "title": "Apex",
+      "fullTitle": "Apex (2021)",
+      "year": "2021",
+      "releaseState": "November 12",
+      "image": "https://imdb-api.com/images/original/MV5BZjFjNjg4YTUtYzk4YS00MzBmLWFiZTktNjQ5YjEzYTk5ZDQ2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "94",
+      "runtimeStr": "1h 34mins",
+      "plot": "Five elite hunters pay to hunt down a man on a deserted island, only to find themselves becoming the prey.",
+      "contentRating": "",
+      "metacriticRating": "56",
+      "genres": "Action, Thriller",
+      "genreList": [
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Thriller",
+          "value": "Thriller"
+        }
+      ],
+      "directors": "Edward Drake",
+      "directorList": [
+        {
+          "id": "nm4864836",
+          "name": "Edward Drake"
+        }
+      ],
+      "stars": "Neal McDonough, Bruce Willis, Corey Large, Alexia Fast",
+      "starList": [
+        {
+          "id": "nm0568180",
+          "name": "Neal McDonough"
+        },
+        {
+          "id": "nm0000246",
+          "name": "Bruce Willis"
+        },
+        {
+          "id": "nm1143429",
+          "name": "Corey Large"
+        },
+        {
+          "id": "nm2145177",
+          "name": "Alexia Fast"
+        }
+      ]
+    },
+    {
+      "id": "tt9568230",
+      "title": "Night Raiders",
+      "fullTitle": "Night Raiders (2021)",
+      "year": "2021",
+      "releaseState": "November 12",
+      "image": "https://imdb-api.com/images/original/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_Ratio0.6890_AL_.jpg",
+      "runtimeMins": "97",
+      "runtimeStr": "1h 37mins",
+      "plot": "A mother joins an underground band of vigilantes to try and rescue her daughter from a state-run institution.",
+      "contentRating": "",
+      "metacriticRating": "78",
+      "genres": "Sci-Fi",
+      "genreList": [
+        {
+          "key": "Sci-Fi",
+          "value": "Sci-Fi"
+        }
+      ],
+      "directors": "Danis Goulet",
+      "directorList": [
+        {
+          "id": "nm1118229",
+          "name": "Danis Goulet"
+        }
+      ],
+      "stars": "Elle-Máijá Tailfeathers, Brooklyn Letexier-Hart, Alex Tarrant, Amanda Plummer",
+      "starList": [
+        {
+          "id": "nm2979684",
+          "name": "Elle-Máijá Tailfeathers"
+        },
+        {
+          "id": "nm11051909",
+          "name": "Brooklyn Letexier-Hart"
+        },
+        {
+          "id": "nm7176413",
+          "name": "Alex Tarrant"
+        },
+        {
+          "id": "nm0001625",
+          "name": "Amanda Plummer"
+        }
+      ]
+    },
+    {
+      "id": "tt4513678",
+      "title": "Ghostbusters: Afterlife",
+      "fullTitle": "Ghostbusters: Afterlife (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BMmZiMjdlN2UtYzdiZS00YjgxLTgyZGMtYzE4ZGU5NTlkNjhhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "124",
+      "runtimeStr": "2h 4mins",
+      "plot": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+      "contentRating": "PG-13",
+      "metacriticRating": "75",
+      "genres": "Comedy, Fantasy",
+      "genreList": [
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Fantasy",
+          "value": "Fantasy"
+        }
+      ],
+      "directors": "Jason Reitman",
+      "directorList": [
+        {
+          "id": "nm0718646",
+          "name": "Jason Reitman"
+        }
+      ],
+      "stars": "Finn Wolfhard, Mckenna Grace, Carrie Coon, Sigourney Weaver",
+      "starList": [
+        {
+          "id": "nm6016511",
+          "name": "Finn Wolfhard"
+        },
+        {
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
+        },
+        {
+          "id": "nm4689420",
+          "name": "Carrie Coon"
+        },
+        {
+          "id": "nm0000244",
+          "name": "Sigourney Weaver"
+        }
+      ]
+    },
+    {
+      "id": "tt9620288",
+      "title": "King Richard",
+      "fullTitle": "King Richard (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BYTcyNmY4ZGEtYmE4Zi00ZDViLTlmYzMtMmQ4ZTM4OWNmZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "138",
+      "runtimeStr": "2h 18mins",
+      "plot": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.",
+      "contentRating": "PG-13",
+      "metacriticRating": "30",
+      "genres": "Biography, Drama, Sport",
+      "genreList": [
+        {
+          "key": "Biography",
+          "value": "Biography"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "Sport",
+          "value": "Sport"
+        }
+      ],
+      "directors": "Reinaldo Marcus Green",
+      "directorList": [
+        {
+          "id": "nm3232264",
+          "name": "Reinaldo Marcus Green"
+        }
+      ],
+      "stars": "Will Smith, Jon Bernthal, Dylan McDermott, Tony Goldwyn",
+      "starList": [
+        {
+          "id": "nm0000226",
+          "name": "Will Smith"
+        },
+        {
+          "id": "nm1256532",
+          "name": "Jon Bernthal"
+        },
+        {
+          "id": "nm0001518",
+          "name": "Dylan McDermott"
+        },
+        {
+          "id": "nm0001282",
+          "name": "Tony Goldwyn"
+        }
+      ]
+    },
+    {
+      "id": "tt10986222",
+      "title": "C'mon C'mon",
+      "fullTitle": "C'mon C'mon (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BMzkwZWJhOTUtZTJkMC00OWQ5LTljZDctYzgxNWFiYjEyZjZiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "108",
+      "runtimeStr": "1h 48mins",
+      "plot": "A radio journalist embarks on a cross-country trip with his young nephew.",
+      "contentRating": "R",
+      "metacriticRating": "32",
+      "genres": "Drama",
+      "genreList": [
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Mike Mills",
+      "directorList": [
+        {
+          "id": "nm0590122",
+          "name": "Mike Mills"
+        }
+      ],
+      "stars": "Joaquin Phoenix, Gaby Hoffmann, Woody Norman, Scoot McNairy",
+      "starList": [
+        {
+          "id": "nm0001618",
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "id": "nm0000451",
+          "name": "Gaby Hoffmann"
+        },
+        {
+          "id": "nm7035760",
+          "name": "Woody Norman"
+        },
+        {
+          "id": "nm1058940",
+          "name": "Scoot McNairy"
+        }
+      ]
+    },
+    {
+      "id": "tt10738906",
+      "title": "The Feast",
+      "fullTitle": "The Feast (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BMmI2NGU0YTktOTVkZC00YmIwLTgwZDItNDlkY2QxYzk4NTQyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "93",
+      "runtimeStr": "1h 33mins",
+      "plot": "Filmed in Welsh, the picture follows a young woman serving privileged guests at a dinner party in a remote house in rural Wales. The assembled guests do not realize they are about to eat their last supper.",
+      "contentRating": "16",
+      "metacriticRating": "12",
+      "genres": "Horror",
+      "genreList": [
+        {
+          "key": "Horror",
+          "value": "Horror"
+        }
+      ],
+      "directors": "Lee Haven Jones",
+      "directorList": [
+        {
+          "id": "nm1172261",
+          "name": "Lee Haven Jones"
+        }
+      ],
+      "stars": "Annes Elwy, Nia Roberts, Julian Lewis Jones, Steffan Cennydd",
+      "starList": [
+        {
+          "id": "nm6906829",
+          "name": "Annes Elwy"
+        },
+        {
+          "id": "nm0731457",
+          "name": "Nia Roberts"
+        },
+        {
+          "id": "nm0428484",
+          "name": "Julian Lewis Jones"
+        },
+        {
+          "id": "nm9653923",
+          "name": "Steffan Cennydd"
+        }
+      ]
+    },
+    {
+      "id": "tt14911244",
+      "title": "Jagged",
+      "fullTitle": "Jagged (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BNDBhMzU4NGItMzYzZC00YjJlLThkODAtMGYwN2I2ZjBiMmI1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "99",
+      "runtimeStr": "1h 39mins",
+      "plot": "Documentary centers on the life and work of Canadian singer-songwriter Alanis Morissette.",
+      "contentRating": "",
+      "metacriticRating": "5",
+      "genres": "Documentary",
+      "genreList": [
+        {
+          "key": "Documentary",
+          "value": "Documentary"
+        }
+      ],
+      "directors": "Alison Klayman",
+      "directorList": [
+        {
+          "id": "nm3052903",
+          "name": "Alison Klayman"
+        }
+      ],
+      "stars": "Alanis Morissette",
+      "starList": [
+        {
+          "id": "nm0001551",
+          "name": "Alanis Morissette"
+        }
+      ]
+    },
+    {
+      "id": "tt13432484",
+      "title": "Zeros and Ones",
+      "fullTitle": "Zeros and Ones (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BMjIzZDMxZjctN2EzOS00YmM3LTg0MTktMTEyY2Q3MTAxMzFlXkEyXkFqcGdeQXVyMTM1NDI1MjUy._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "85",
+      "runtimeStr": "1h 25mins",
+      "plot": "An American soldier stationed in Rome with the Vatican blown up, embarks on a hero's journey to uncover and defend against an unknown enemy threatening the entire world.",
+      "contentRating": "R",
+      "metacriticRating": "44",
+      "genres": "Thriller, War",
+      "genreList": [
+        {
+          "key": "Thriller",
+          "value": "Thriller"
+        },
+        {
+          "key": "War",
+          "value": "War"
+        }
+      ],
+      "directors": "Abel Ferrara",
+      "directorList": [
+        {
+          "id": "nm0001206",
+          "name": "Abel Ferrara"
+        }
+      ],
+      "stars": "Ethan Hawke, Valerio Mastandrea, Cristina Chiriac, Babak Karimi",
+      "starList": [
+        {
+          "id": "nm0000160",
+          "name": "Ethan Hawke"
+        },
+        {
+          "id": "nm0557609",
+          "name": "Valerio Mastandrea"
+        },
+        {
+          "id": "nm7713812",
+          "name": "Cristina Chiriac"
+        },
+        {
+          "id": "nm0439307",
+          "name": "Babak Karimi"
+        }
+      ]
+    },
+    {
+      "id": "tt14033502",
+      "title": "Bad Luck Banging or Loony Porn",
+      "fullTitle": "Bad Luck Banging or Loony Porn (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BNzMwZTRmODQtNTcwMC00ZTU2LTgyODMtNWIxOGMzZGVkZDIxXkEyXkFqcGdeQXVyMjQxNjA1MzU@._V1_Ratio0.7081_AL_.jpg",
+      "runtimeMins": "106",
+      "runtimeStr": "1h 46mins",
+      "plot": "Emi, a school teacher, finds her career and reputation under threat after a personal sex tape is leaked on the Internet. Forced to meet the parents demanding her dismissal, Emi refuses to surrender to their pressure.",
+      "contentRating": "18",
+      "metacriticRating": "89",
+      "genres": "Comedy, Drama",
+      "genreList": [
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Radu Jude",
+      "directorList": [
+        {
+          "id": "nm1257492",
+          "name": "Radu Jude"
+        }
+      ],
+      "stars": "Katia Pascariu, Claudia Ieremia, Olimpia Malai, Nicodim Ungureanu",
+      "starList": [
+        {
+          "id": "nm4944432",
+          "name": "Katia Pascariu"
+        },
+        {
+          "id": "nm1999460",
+          "name": "Claudia Ieremia"
+        },
+        {
+          "id": "nm7433607",
+          "name": "Olimpia Malai"
+        },
+        {
+          "id": "nm1082584",
+          "name": "Nicodim Ungureanu"
+        }
+      ]
+    },
+    {
+      "id": "tt14405338",
+      "title": "A House on the Bayou",
+      "fullTitle": "A House on the Bayou (2021)",
+      "year": "2021",
+      "releaseState": "November 19",
+      "image": "https://imdb-api.com/images/original/MV5BYjVlZTJlMjYtZDJjMC00YmIzLWJhOWEtYmMzMDk1YTJhYzU1XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "",
+      "runtimeStr": "",
+      "plot": "Follows a troubled couple and their daughter who go on vacation to an isolated house in the Louisiana bayou to reconnect as a family. But when unexpected visitors arrive, the unity starts to unravel.",
+      "contentRating": "",
+      "metacriticRating": "90",
+      "genres": "Horror, Thriller",
+      "genreList": [
+        {
+          "key": "Horror",
+          "value": "Horror"
+        },
+        {
+          "key": "Thriller",
+          "value": "Thriller"
+        }
+      ],
+      "directors": "Alex McAulay",
+      "directorList": [
+        {
+          "id": "nm1709225",
+          "name": "Alex McAulay"
+        }
+      ],
+      "stars": "Lia McHugh, Angela Sarafyan, Paul Schneider, Jacob Lofland",
+      "starList": [
+        {
+          "id": "nm7186321",
+          "name": "Lia McHugh"
+        },
+        {
+          "id": "nm1494168",
+          "name": "Angela Sarafyan"
+        },
+        {
+          "id": "nm0773973",
+          "name": "Paul Schneider"
+        },
+        {
+          "id": "nm5015107",
+          "name": "Jacob Lofland"
+        }
+      ]
+    },
+    {
+      "id": "tt11214590",
+      "title": "House of Gucci",
+      "fullTitle": "House of Gucci (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BZThjMTA5YjgtZmViZi00YjY0LTk5MzQtMjUwMGEzZGVlYzFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "157",
+      "runtimeStr": "2h 37mins",
+      "plot": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+      "contentRating": "R",
+      "metacriticRating": "88",
+      "genres": "Crime, Drama, Thriller",
+      "genreList": [
+        {
+          "key": "Crime",
+          "value": "Crime"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "Thriller",
+          "value": "Thriller"
+        }
+      ],
+      "directors": "Ridley Scott",
+      "directorList": [
+        {
+          "id": "nm0000631",
+          "name": "Ridley Scott"
+        }
+      ],
+      "stars": "Salma Hayek, Adam Driver, Jared Leto, Al Pacino",
+      "starList": [
+        {
+          "id": "nm0000161",
+          "name": "Salma Hayek"
+        },
+        {
+          "id": "nm3485845",
+          "name": "Adam Driver"
+        },
+        {
+          "id": "nm0001467",
+          "name": "Jared Leto"
+        },
+        {
+          "id": "nm0000199",
+          "name": "Al Pacino"
+        }
+      ]
+    },
+    {
+      "id": "tt11271038",
+      "title": "Licorice Pizza",
+      "fullTitle": "Licorice Pizza (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BMGU4NzhkZDAtZmIyNi00ZGE2LWE2ODMtMGNiNjc3MTQxOTU1XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "",
+      "runtimeStr": "",
+      "plot": "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+      "contentRating": "R",
+      "metacriticRating": "74",
+      "genres": "Comedy, Drama, Romance",
+      "genreList": [
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "Romance",
+          "value": "Romance"
+        }
+      ],
+      "directors": "Paul Thomas Anderson",
+      "directorList": [
+        {
+          "id": "nm0000759",
+          "name": "Paul Thomas Anderson"
+        }
+      ],
+      "stars": "Bradley Cooper, Skyler Gisondo, Sean Penn, John C. Reilly",
+      "starList": [
+        {
+          "id": "nm0177896",
+          "name": "Bradley Cooper"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm0000576",
+          "name": "Sean Penn"
+        },
+        {
+          "id": "nm0000604",
+          "name": "John C. Reilly"
+        }
+      ]
+    },
+    {
+      "id": "tt2953050",
+      "title": "Encanto",
+      "fullTitle": "Encanto (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "99",
+      "runtimeStr": "1h 39mins",
+      "plot": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+      "contentRating": "PG",
+      "metacriticRating": "66",
+      "genres": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        },
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Family",
+          "value": "Family"
+        },
+        {
+          "key": "Fantasy",
+          "value": "Fantasy"
+        },
+        {
+          "key": "Musical",
+          "value": "Musical"
+        }
+      ],
+      "directors": "Jared Bush, Byron Howard, Charise Castro Smith",
+      "directorList": [
+        {
+          "id": "nm1158544",
+          "name": "Jared Bush"
+        },
+        {
+          "id": "nm0397174",
+          "name": "Byron Howard"
+        },
+        {
+          "id": "nm4146781",
+          "name": "Charise Castro Smith"
+        }
+      ],
+      "stars": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Diane Guerrero",
+      "starList": [
+        {
+          "id": "nm3715867",
+          "name": "Stephanie Beatriz"
+        },
+        {
+          "id": "nm1239720",
+          "name": "María Cecilia Botero"
+        },
+        {
+          "id": "nm0000491",
+          "name": "John Leguizamo"
+        },
+        {
+          "id": "nm4058898",
+          "name": "Diane Guerrero"
+        }
+      ]
+    },
+    {
+      "id": "tt6920084",
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "fullTitle": "Resident Evil: Welcome to Raccoon City (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BNjRmMDUxODctYjg3NC00NDRhLWJhZWItMjg0OTZkMDBjNWUxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.7943_AL_.jpg",
+      "runtimeMins": "107",
+      "runtimeStr": "1h 47mins",
+      "plot": "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
+      "contentRating": "R",
+      "metacriticRating": "46",
+      "genres": "Action, Horror, Mystery, Sci-Fi",
+      "genreList": [
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Horror",
+          "value": "Horror"
+        },
+        {
+          "key": "Mystery",
+          "value": "Mystery"
+        },
+        {
+          "key": "Sci-Fi",
+          "value": "Sci-Fi"
+        }
+      ],
+      "directors": "Johannes Roberts",
+      "directorList": [
+        {
+          "id": "nm1266897",
+          "name": "Johannes Roberts"
+        }
+      ],
+      "stars": "Kaya Scodelario, Robbie Amell, Hannah John-Kamen, Tom Hopper",
+      "starList": [
+        {
+          "id": "nm2546012",
+          "name": "Kaya Scodelario"
+        },
+        {
+          "id": "nm2064412",
+          "name": "Robbie Amell"
+        },
+        {
+          "id": "nm4789912",
+          "name": "Hannah John-Kamen"
+        },
+        {
+          "id": "nm2584392",
+          "name": "Tom Hopper"
+        }
+      ]
+    },
+    {
+      "id": "tt10023286",
+      "title": "The Humans",
+      "fullTitle": "The Humans (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BYTZjYzU4NDctNjg0NS00YmIzLTkzMzctZDQ2YjE3ZjEyMDg5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6699_AL_.jpg",
+      "runtimeMins": "108",
+      "runtimeStr": "1h 48mins",
+      "plot": "Set inside a pre-war duplex in downtown Manhattan, The Humans follows the course of an evening in which the Blake family gathers to celebrate Thanksgiving. As darkness falls outside the crumbling building, mysterious things start to go bump in the night and family tensions reach a boiling point.",
+      "contentRating": "R",
+      "metacriticRating": "85",
+      "genres": "Drama",
+      "genreList": [
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Stephen Karam",
+      "directorList": [
+        {
+          "id": "nm3046538",
+          "name": "Stephen Karam"
+        }
+      ],
+      "stars": "Beanie Feldstein, Steven Yeun, June Squibb, Richard Jenkins",
+      "starList": [
+        {
+          "id": "nm2788156",
+          "name": "Beanie Feldstein"
+        },
+        {
+          "id": "nm3081796",
+          "name": "Steven Yeun"
+        },
+        {
+          "id": "nm0820053",
+          "name": "June Squibb"
+        },
+        {
+          "id": "nm0420955",
+          "name": "Richard Jenkins"
+        }
+      ]
+    },
+    {
+      "id": "tt14547524",
+      "title": "National Champions",
+      "fullTitle": "National Champions (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "runtimeMins": "",
+      "runtimeStr": "",
+      "plot": "Follows star quarterback who ignites a players strike hours before the biggest game of the year in order to fight for fair compensation, equality and respect for the student-athletes.",
+      "contentRating": "",
+      "metacriticRating": "78",
+      "genres": "Drama",
+      "genreList": [
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Ric Roman Waugh",
+      "directorList": [
+        {
+          "id": "nm0006846",
+          "name": "Ric Roman Waugh"
+        }
+      ],
+      "stars": "Alexander Ludwig, Timothy Olyphant, J.K. Simmons, Kristin Chenoweth",
+      "starList": [
+        {
+          "id": "nm1573253",
+          "name": "Alexander Ludwig"
+        },
+        {
+          "id": "nm0648249",
+          "name": "Timothy Olyphant"
+        },
+        {
+          "id": "nm0799777",
+          "name": "J.K. Simmons"
+        },
+        {
+          "id": "nm0155693",
+          "name": "Kristin Chenoweth"
+        }
+      ]
+    },
+    {
+      "id": "tt14039582",
+      "title": "Drive My Car",
+      "fullTitle": "Drive My Car (2021)",
+      "year": "2021",
+      "releaseState": "November 26",
+      "image": "https://imdb-api.com/images/original/MV5BNmZlZTRhZDMtOGZlMy00YmYxLTk5MmEtMTJjMjk3OTJhODJiXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_Ratio0.6986_AL_.jpg",
+      "runtimeMins": "179",
+      "runtimeStr": "2h 59mins",
+      "plot": "Nishijima Hidetoshi is a stage actor and director happily married to his playwright wife. Then one day she disappears.",
+      "contentRating": "",
+      "metacriticRating": "80",
+      "genres": "Drama",
+      "genreList": [
+        {
+          "key": "Drama",
+          "value": "Drama"
+        }
+      ],
+      "directors": "Ryûsuke Hamaguchi",
+      "directorList": [
+        {
+          "id": "nm3152327",
+          "name": "Ryûsuke Hamaguchi"
+        }
+      ],
+      "stars": "Hidetoshi Nishijima, Tôko Miura, Reika Kirishima, Yoo-rim Park",
+      "starList": [
+        {
+          "id": "nm0632689",
+          "name": "Hidetoshi Nishijima"
+        },
+        {
+          "id": "nm4392528",
+          "name": "Tôko Miura"
+        },
+        {
+          "id": "nm1929776",
+          "name": "Reika Kirishima"
+        },
+        {
+          "id": "nm12719478",
+          "name": "Yoo-rim Park"
+        }
+      ]
+    }
+  ]
+}

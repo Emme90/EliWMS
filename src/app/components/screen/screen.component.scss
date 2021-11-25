@@ -1,0 +1,16 @@
+.screen {
+  height: 4rem;
+  width: 30rem;
+  background: white;
+  clip-path: polygon(0 0, 100% 0, 85% 100%, 15% 100%);
+}
+
+.shadow {
+  height: 4rem;
+  width: 30rem;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.25) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  clip-path: polygon(15% 0, 85% 0, 100% 100%, 0 100%);
+}

@@ -1,0 +1,163 @@
+.new-booking-container {
+  width: 100%;
+  padding: 0 6rem 4rem 6rem;
+  margin-top: 6rem;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 8rem;
+  color: white;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.25) 5%,
+    rgba(0, 0, 0, 0.5) 10%,
+    rgba(0, 0, 0, 0.75) 15%,
+    rgba(0, 0, 0, 1) 20%
+  );
+}
+
+.movie-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  color: lightgray;
+  width: 20rem;
+}
+
+.detail-image {
+  width: 20rem;
+}
+
+.title-directors {
+  display: flex;
+  flex-direction: column;
+  & .title {
+    color: white;
+    font-size: 2rem;
+  }
+  & .directors-container {
+    display: flex;
+    column-gap: 1rem;
+    font-weight: bold;
+    font-size: 0.75rem;
+    & div {
+      color: yellow;
+      display: flex;
+      column-gap: 0.25rem;
+    }
+  }
+}
+
+.actors,
+.plot {
+  font-size: 0.85rem;
+}
+
+.booking-container {
+  flex: 70;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  & h1 {
+    font-size: 3rem;
+  }
+}
+
+.tabs-recap-container {
+  display: flex;
+  column-gap: 4rem;
+}
+
+.tabs-container {
+  flex: 85;
+}
+
+.tabs-header {
+  display: flex;
+  justify-content: space-evenly;
+  color: grey;
+  & .tab {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.15rem;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 2px solid grey;
+    // cursor: pointer;
+    pointer-events: none;
+  }
+
+  & .tab.active {
+    color: white;
+    border-color: red;
+  }
+}
+
+.tab-content {
+  padding-top: 2rem;
+  min-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dates-wrapper {
+  display: flex;
+  justify-content: space-around;
+  & div {
+    cursor: pointer;
+  }
+}
+
+.time-slots-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.seat-tab-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pay-form {
+  width: 100%;
+}
+
+.recap {
+  flex: 15;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  & div {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.25rem;
+    & span {
+      font-size: 0.75rem;
+      font-weight: bold;
+      color: gray;
+    }
+  }
+}
+
+.action {
+  padding: 2rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.dateTimeAction {
+  padding: 2rem 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.seatActions {
+  column-gap: 1rem;
+}

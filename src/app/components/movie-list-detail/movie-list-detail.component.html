@@ -1,0 +1,13 @@
+<div class="movie-container" (click)="onMovieSelect(movie.id)">
+  <img class="movie-image" [src]="movie.image" alt="" />
+  <div class="text-content">
+    <span class="movie-title">{{ movie.title }}</span>
+    <div class="movie-author-rating">
+      <span class="movie-author">{{ movie.directors }}</span>
+      <div class="movie-rating">
+        <hem-star></hem-star>
+        <span>{{ movie.metacriticRating }}</span>
+      </div>
+    </div>
+  </div>
+</div>

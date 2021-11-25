@@ -1,0 +1,117 @@
+<div class="new-booking-container">
+  <div class="movie-container">
+    <img
+      [src]="selectedMovie.image"
+      [alt]="selectedMovie.title"
+      class="detail-image"
+    />
+    <div class="title-directors">
+      <h1 class="title">{{ selectedMovie.title }}</h1>
+      <div class="directors-container">
+        <span class="directors">{{ selectedMovie.directors }}</span>
+        <div>
+          <hem-star></hem-star>
+          <span>{{ selectedMovie.metacriticRating }}</span>
+        </div>
+      </div>
+    </div>
+    <div class="actors">{{ selectedMovie.stars }}</div>
+    <div class="plot">{{ selectedMovie.plot }}</div>
+  </div>
+  <div class="booking-container">
+    <h1>Prenotazione</h1>
+    <div class="tabs-recap-container">
+      <div class="tabs-container" [ngSwitch]="selectedTab.label">
+        <div class="tabs-header">
+          <div
+            class="tab"
+            (click)="onTabClick(bookingTabs.dateTime)"
+            [ngClass]="{
+              active:
+                selectedTab.label === bookingTabs.dateTime && selectedTab.active
+            }"
+          >
+            Data e ora
+          </div>
+          <div
+            class="tab"
+            (click)="onTabClick(bookingTabs.seat)"
+            [ngClass]="{
+              active:
+                selectedTab.label === bookingTabs.seat && selectedTab.active
+            }"
+          >
+            Posto
+          </div>
+          <div
+            class="tab"
+            (click)="onTabClick(bookingTabs.pay)"
+            [ngClass]="{
+              active:
+                selectedTab.label === bookingTabs.pay && selectedTab.active
+            }"
+          >
+            Paga
+          </div>
+        </div>
+        <!-- DATE TIME TEMPLATE -->
+        <div *ngSwitchCase="bookingTabs.dateTime" class="tab-content">
+          <div>
+            <div class="dates-wrapper">
+              <div *ngFor="let date of nextWeek">
+                <hem-date-time-slot [date]="date"></hem-date-time-slot>
+              </div>
+            </div>
+            <div class="action">
+              <hem-round-button
+                [label]="'Avanti'"
+                [active]="true"
+                (clickEmitter)="onDateTimeProceedBtn()"
+              ></hem-round-button>
+            </div>
+          </div>
+        </div>
+        <!-- SEAT TEMPLATE -->
+        <div *ngSwitchCase="bookingTabs.seat" class="tab-content">
+          <div class="seat-tab-wrapper">
+            <hem-screen></hem-screen>
+            <hem-seats></hem-seats>
+            <div class="action seatActions">
+              <hem-round-button
+                [label]="'Indietro'"
+                (clickEmitter)="onSeatBackBtn()"
+              ></hem-round-button>
+              <hem-round-button
+                [label]="'Avanti'"
+                [active]="true"
+                (clickEmitter)="onSeatProceedBtn()"
+              ></hem-round-button>
+            </div>
+          </div>
+        </div>
+        <!-- PAY TEMPLATE -->
+        <div *ngSwitchCase="bookingTabs.pay" class="tab-content">
+          <hem-pay-form
+            class="pay-form"
+            (payBackBtnEmitter)="onPayBackBtn()"
+          ></hem-pay-form>
+        </div>
+      </div>
+      <div class="recap">
+        <div>
+          <span>Data</span>
+          <h2>{{ " - " }}</h2>
+        </div>
+        <div>
+          <span>Ora</span>
+          <h2>{{ " - " }}</h2>
+        </div>
+        <div>
+          <span>Posto</span>
+          <h2>{{ " - " }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="actions"></div>

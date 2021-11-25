@@ -1,0 +1,108 @@
+{
+  "imDbId": "tt2953050",
+  "title": "Encanto",
+  "fullTitle": "Encanto (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "gKV303VdLsR2PAEJMhSeZ2cxfQ0.jpg",
+      "link": "https://imdb-api.com/posters/original/gKV303VdLsR2PAEJMhSeZ2cxfQ0.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "kgxbdPlQbhJTAQ3PZ9WAyrcvPxM.jpg",
+      "link": "https://imdb-api.com/posters/original/kgxbdPlQbhJTAQ3PZ9WAyrcvPxM.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "hCMD9Sn1cV6FShnvrJJEgUNP3ib.jpg",
+      "link": "https://imdb-api.com/posters/original/hCMD9Sn1cV6FShnvrJJEgUNP3ib.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "3geGQ1xI6PmViS4glwlOhrcD4Wm.jpg",
+      "link": "https://imdb-api.com/posters/original/3geGQ1xI6PmViS4glwlOhrcD4Wm.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "fBDnpHyW4VxjR754ou43w9IbxBc.jpg",
+      "link": "https://imdb-api.com/posters/original/fBDnpHyW4VxjR754ou43w9IbxBc.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "7wkvW7aWG4DRnppXAFNcS44nd8r.jpg",
+      "link": "https://imdb-api.com/posters/original/7wkvW7aWG4DRnppXAFNcS44nd8r.jpg",
+      "aspectRatio": 0.6749915626054674,
+      "language": "en",
+      "width": 2000,
+      "height": 2963
+    },
+    {
+      "id": "eBcm62yBEDGHdMOGRrElBe4ZtXJ.jpg",
+      "link": "https://imdb-api.com/posters/original/eBcm62yBEDGHdMOGRrElBe4ZtXJ.jpg",
+      "aspectRatio": 0.6749915626054674,
+      "language": "en",
+      "width": 2000,
+      "height": 2963
+    },
+    {
+      "id": "y6APPAjzCNcHtH6CUDHnno231et.jpg",
+      "link": "https://imdb-api.com/posters/original/y6APPAjzCNcHtH6CUDHnno231et.jpg",
+      "aspectRatio": 0.6869009584664537,
+      "language": "en",
+      "width": 645,
+      "height": 939
+    },
+    {
+      "id": "wMil69k9N0tncavxToM9NAa2UjS.jpg",
+      "link": "https://imdb-api.com/posters/original/wMil69k9N0tncavxToM9NAa2UjS.jpg",
+      "aspectRatio": 0.666829506595017,
+      "language": "en",
+      "width": 1365,
+      "height": 2047
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "g2djzUqA6mFplzC03gDk0WSyg99.jpg",
+      "link": "https://imdb-api.com/posters/original/g2djzUqA6mFplzC03gDk0WSyg99.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "9xL8gUBarG4Bd7x48BjUpSJvvlw.jpg",
+      "link": "https://imdb-api.com/posters/original/9xL8gUBarG4Bd7x48BjUpSJvvlw.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "5i3ghCXVLNhewrBjTesMgy4FHT7.jpg",
+      "link": "https://imdb-api.com/posters/original/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 3840,
+      "height": 2160
+    }
+  ],
+  "errorMessage": ""
+}

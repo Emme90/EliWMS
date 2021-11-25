@@ -1,0 +1,42 @@
+.card-container {
+  height: 12rem;
+  width: 42rem;
+  background: whitesmoke;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  display: flex;
+  column-gap: 2rem;
+  justify-content: space-between;
+  font-weight: bold;
+  color: black;
+}
+
+.qr-code {
+  & img {
+    width: 8rem;
+    height: 8rem;
+  }
+}
+
+.seat {
+  flex: 50;
+  display: flex;
+  align-items: flex-end;
+  font-size: 2rem;
+}
+
+.date-time-container {
+  flex: 30;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+}
+
+.label {
+  font-size: 0.75rem;
+  color: grey;
+}
+
+.value {
+  font-size: 1.75rem;
+}

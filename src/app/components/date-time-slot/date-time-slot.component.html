@@ -1,0 +1,11 @@
+<div class="date-time-wrapper">
+  <hem-date [date]="date"></hem-date>
+  <div class="slots-wrapper">
+    <div *ngFor="let slot of timeSlots">
+      <hem-time-slot
+        [time]="slot"
+        (slotClickEmitter)="onTimeSlotChange($event)"
+      ></hem-time-slot>
+    </div>
+  </div>
+</div>

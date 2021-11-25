@@ -1,0 +1,60 @@
+{
+  "imDbId": "tt12789558",
+  "title": "Belfast",
+  "fullTitle": "Belfast (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "dRjbdzmiypTGDktRCfcMsjqqGud.jpg",
+      "link": "https://imdb-api.com/posters/original/dRjbdzmiypTGDktRCfcMsjqqGud.jpg",
+      "aspectRatio": 0.6672727272727272,
+      "language": "en",
+      "width": 734,
+      "height": 1100
+    },
+    {
+      "id": "dqyeFwPIGOTnR8MFRtnJ1NbCyKO.jpg",
+      "link": "https://imdb-api.com/posters/original/dqyeFwPIGOTnR8MFRtnJ1NbCyKO.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 2000,
+      "height": 3000
+    },
+    {
+      "id": "7MAJGPuLFdNy4X70FxRmM1nNAq7.jpg",
+      "link": "https://imdb-api.com/posters/original/7MAJGPuLFdNy4X70FxRmM1nNAq7.jpg",
+      "aspectRatio": 0.675,
+      "language": "en",
+      "width": 1080,
+      "height": 1600
+    },
+    {
+      "id": "xDHLQlSvgGqcaMoFWAC7kupN0n0.jpg",
+      "link": "https://imdb-api.com/posters/original/xDHLQlSvgGqcaMoFWAC7kupN0n0.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 500,
+      "height": 750
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "jZUE40mbdOWxaynVwfAj8rHGaVO.jpg",
+      "link": "https://imdb-api.com/posters/original/jZUE40mbdOWxaynVwfAj8rHGaVO.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "cMBkxD9ydNamxojaUwSvWk0koHj.jpg",
+      "link": "https://imdb-api.com/posters/original/cMBkxD9ydNamxojaUwSvWk0koHj.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "errorMessage": ""
+}

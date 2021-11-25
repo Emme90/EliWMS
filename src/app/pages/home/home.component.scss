@@ -1,0 +1,19 @@
+.home-container {
+  padding-top: 2rem;
+}
+
+.image-changer {
+  min-height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  column-gap: 0.25rem;
+  padding: 2rem;
+}
+
+.image-marker {
+  height: 3px;
+  width: 3rem;
+  border-radius: 2px;
+  background-color: rgb(60, 60, 60);
+}

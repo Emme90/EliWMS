@@ -1,0 +1,26 @@
+<div class="booking-container">
+  <div class="movie-container">
+    <img
+      [src]="selectedMovie.image"
+      [alt]="selectedMovie.title"
+      class="detail-image"
+    />
+    <div class="title-directors">
+      <h1 class="title">{{ selectedMovie.title }}</h1>
+      <div class="directors-container">
+        <span class="directors">{{ selectedMovie.directors }}</span>
+        <div>
+          <hem-star></hem-star>
+          <span>{{ selectedMovie.metacriticRating }}</span>
+        </div>
+      </div>
+    </div>
+    <div class="actors">{{ selectedMovie.stars }}</div>
+    <div class="plot">{{ selectedMovie.plot }}</div>
+  </div>
+  <div class="bookings-container">
+    <h1>Le mie prenotazione</h1>
+    <span>I tuoi biglietti</span>
+    <hem-booking-card></hem-booking-card>
+  </div>
+</div>

@@ -1,0 +1,68 @@
+{
+  "imDbId": "tt10986222",
+  "title": "C'mon C'mon",
+  "fullTitle": "C'mon C'mon (2021)",
+  "type": "Movie",
+  "year": "2021",
+  "posters": [
+    {
+      "id": "hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "link": "https://imdb-api.com/posters/original/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1800,
+      "height": 2700
+    },
+    {
+      "id": "cXZ5G5T9cRuVH66aif3EiZbZMYU.jpg",
+      "link": "https://imdb-api.com/posters/original/cXZ5G5T9cRuVH66aif3EiZbZMYU.jpg",
+      "aspectRatio": 0.6672091131000814,
+      "language": "en",
+      "width": 820,
+      "height": 1229
+    },
+    {
+      "id": "1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+      "link": "https://imdb-api.com/posters/original/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1800,
+      "height": 2700
+    },
+    {
+      "id": "smounz3ao9Ys5oXNImR55iouTEI.jpg",
+      "link": "https://imdb-api.com/posters/original/smounz3ao9Ys5oXNImR55iouTEI.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 1800,
+      "height": 2700
+    },
+    {
+      "id": "vHuH08ZIE2J6wkNPrrKxpl6xuNh.jpg",
+      "link": "https://imdb-api.com/posters/original/vHuH08ZIE2J6wkNPrrKxpl6xuNh.jpg",
+      "aspectRatio": 0.6672340425531915,
+      "language": "en",
+      "width": 784,
+      "height": 1175
+    },
+    {
+      "id": "qkGNLf7aFrGJ3vPRk06bGVg60GY.jpg",
+      "link": "https://imdb-api.com/posters/original/qkGNLf7aFrGJ3vPRk06bGVg60GY.jpg",
+      "aspectRatio": 0.6666666666666666,
+      "language": "en",
+      "width": 808,
+      "height": 1212
+    }
+  ],
+  "backdrops": [
+    {
+      "id": "sXcjwrY7kgaafhUMq9uYmMba0E6.jpg",
+      "link": "https://imdb-api.com/posters/original/sXcjwrY7kgaafhUMq9uYmMba0E6.jpg",
+      "aspectRatio": 1.7777777777777777,
+      "language": "en",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "errorMessage": ""
+}
