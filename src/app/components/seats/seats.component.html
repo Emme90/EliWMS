@@ -1,1 +1,10 @@
-<div>SEATS MATRIX SHOULD BE HERE</div>
+<div class="seats-wrapper">
+  <div *ngFor="let row of seats">
+    <div class="seats-row">
+      <div *ngFor="let seat of row">
+        <!-- <div *ngIf="index === 13"></div> -->
+        <heam-seat></heam-seat>
+      </div>
+    </div>
+  </div>
+</div>

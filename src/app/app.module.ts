@@ -22,6 +22,8 @@ import { ScreenComponent } from './components/screen/screen.component';
 import { SeatsComponent } from './components/seats/seats.component';
 import { PayFormComponent } from './components/pay-form/pay-form.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
+import { SeatComponent } from './components/seat/seat.component';
 
 @NgModule({
   declarations: [
@@ -42,9 +44,11 @@ import { ReactiveFormsModule } from '@angular/forms';
     DateTimeSlotComponent,
     ScreenComponent,
     SeatsComponent,
+    SeatComponent,
     PayFormComponent,
   ],
   imports: [
+    CommonModule,
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
